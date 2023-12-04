@@ -1,0 +1,10 @@
+id: 2
+Data di inizio: 04/12/2023
+Numero giorni: 5
+Costo: 0
+Codicefiscale: abc123
+Nome: Mario
+Cognome: Rossi
+Targa: AB476AS
+Modello: 500
+Tariffa: 10
